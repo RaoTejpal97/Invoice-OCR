@@ -1,0 +1,3 @@
+1)Optical Character Recognition (OCR) technology is a hardware/software tool that takes a paper document, usually an invoice, scans and “reads” it and turns it into metadata that can be used to populate fields in a database.
+2) By using template file(based on regular expression), invoices and python code(library used invoice2data) we can extract the complete information from any invoice.
+3) We can also use one other method in which we used pytesseract library which is used in python for extracting the text from any image of invoices and then we can use some basic python code and regulaer expression for finding the complete information.
